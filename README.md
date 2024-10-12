@@ -10,6 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/deshieldstf/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/deshieldstf/azure-network-protocols)
   - [Network Files Shares and Permissions](https://github.com/deshieldstf/network-file-shares)
+  - [Building Intuitions for DNS](https://github.com/deshieldstf/building-intuition-dns)
 
 <h2>🤳Connect with me:</h2>
 
