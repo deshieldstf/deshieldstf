@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/deshieldstf/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/deshieldstf/azure-network-protocols)
-  - [Network Files Shares](https://github.com/deshieldstf/network-file-shares)
+  - [Network Files Shares and Permissions](https://github.com/deshieldstf/network-file-shares)
 
 <h2>🤳Connect with me:</h2>
 
